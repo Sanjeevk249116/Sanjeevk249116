@@ -7,15 +7,15 @@
 - 👨‍💻 Know more About me [https://sanjeevk249116.github.io/](https://sanjeevk249116.github.io/)
 
 - 💬 Ask me about  **HTML** , **CSS** , **JS** , **React**  , **Chakra-UI** , **MongoDB**, **ExpressJS** , **Node-JS**
-- 📄 My Resume <a href="https://drive.google.com/file/d/1zztPdp7ZZE-dTh7X4-V7oOVyuHH7TVXH/view?usp=share_link">Sachin-Kesarwani</a>
+- 📄 My Resume <a href="https://drive.google.com/file/d/1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR/view?usp=share_link">Sanjeev Kushwaha</a>
 
-<h3 align="left">Connect with me : <a href="#">sachin.kesarwani67890@gmail.com</a></h3>
+<h3 align="left">Connect with me : <a href="#">sanjeevk249116@gmail.com</a></h3>
 <p align="left">
 </p>
 <h2>Some of My projects</h2>
-<p>Lavish Look</p>https://lavish-look-sachin-kesarwani.vercel.app/<br>
-<p>Fit Factory</p>https://fit-factory.vercel.app/
-<p>Solution.com</p>https://lovely-snickerdoodle-8bb2d5.netlify.app/
+<p>Furniture App</p>https://furniture-ebon-two.vercel.app/<br>
+<p>Nykaa clone</p>https://647dd65b244d6300b314abcb--fanciful-pasca-55c3aa.netlify.app/
+<p>Food App</p>https://food-app-five-xi.vercel.app/
 <h3 align="left">Languages and Tools:</h3>
 
  <div align="center"><h3 align="center">Frontend</h3>
@@ -57,9 +57,9 @@
 
 
 <h3 align="left">Description </h3>
-<p>Hey , This is Sachin Kesarwani Full Stack web developer  with the knowledge of frontend and backened . Ready for to get opportunity and alse have enthusiastic to give contribution on projects .  </p>
+<p>Hey , This is Sanjeev Kushwaha Full Stack web developer  with the knowledge of frontend and backened . Ready for to get opportunity and alse have enthusiastic to give contribution on projects .  </p>
 <h2>About Performance on Work</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Kesarwani&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kesarwani&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sachin-Kesarwani&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeevk249116&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevk249116&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjeevk249116&show_icons=true&theme=radical"/>
 

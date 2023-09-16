@@ -8,7 +8,7 @@
 
 - 💬 Ask me about  **HTML** , **CSS** , **JS** , **React**  , **Chakra-UI** , **MongoDB**, **ExpressJS** , **Node-JS**
 - 📄 My Resume <a href="https://drive.google.com/file/d/1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR/view?usp=share_link">Sanjeev Kushwaha</a>
-- 📄 My Linkedin <a href="https://www.linkedin.com/in/sanjeevkushwaha2002/">Linkedin Profice</a>
+- 📄 My Linkedin <a href="https://www.linkedin.com/in/sanjeevkushwaha2002/">Linkedin Profile</a>
 
 <h3 align="left">Connect with me : <a href="#">sanjeevk249116@gmail.com</a></h3>
 <p align="left">

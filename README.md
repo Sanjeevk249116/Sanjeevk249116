@@ -14,8 +14,8 @@
 <p align="left">
 </p>
 <h2>Some of My projects</h2>
-<p>Furniture App</p>https://furniture-ebon-two.vercel.app/<br>
-<p>Nykaa clone</p>https://647dd65b244d6300b314abcb--fanciful-pasca-55c3aa.netlify.app/
+<p>Auction System</p>https://staging.d2bcrm3cctszjv.amplifyapp.com/<br>
+<p>Masai Clone</p>https://masai-flow.vercel.app/
 <p>Food App</p>https://food-app-five-xi.vercel.app/
 <h3 align="left">Languages and Tools:</h3>
 

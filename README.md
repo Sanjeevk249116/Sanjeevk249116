@@ -95,9 +95,15 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeevk249116&theme=onedark&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevk249116&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjeevk249116&show_icons=true&theme=radical"/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanjeevk249116&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeevk249116&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevk249116&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
 
 
 ---
